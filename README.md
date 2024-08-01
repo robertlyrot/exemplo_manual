@@ -1,8 +1,8 @@
 # Sumário
 - [Título Principal](#título-principal)
-- [Sub-título 1](#subtítulo1)
-- [Sub-título 2](#subtítulo2)
-- [Sub-título de nivel 3](#subtítulo3)
+- [Sub-título 1](#subtítulo-1)
+- [Sub-título 2](#subtítulo-2)
+- [Sub-título de nivel 3](#subtítulo-3)
 
 # Título Principal
 Conteúdo do título principal...
