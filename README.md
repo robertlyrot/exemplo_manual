@@ -43,4 +43,7 @@ apt-get install dependencia1 dependencia2
 Para baixar nossa ferramenta de diagnóstico [clique aqui](/https://site.com).
 <br>
 Ou acesse https://outrosite.com
+<br>
+<br>
+Para acessar a instalação avançada [Clique aqui](INSTALACAO.md)
 
