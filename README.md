@@ -47,3 +47,10 @@ Ou acesse https://outrosite.com
 <br>
 Para acessar a instalação avançada [Clique aqui](INSTALACAO.md)
 
+Clique duas vezes no arquivo `setup.py`
+<b>Negrito<b>
+<i>Italico<i>
+<u>Sublinhado<u>
+
+<img src
+
